@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Крестики-Нолики+</string>
+    <string name="title">Заставка</string>
+    <string name="menu">Меню</string>
+    <string name="options">Настройки</string>
+    <string name="help">Помощь</string>
+    <string name="game">Игра</string>
+    <string name="scores">Очки</string>
+    <string name="start">Начать игру!</string>
+    <string name="settings">Настройки</string>
+    <string name="menu_exit">Выход</string>
+    <string name="about">О программе</string>
+
+    <string name="back_b">Назад</string>
+    <string name="sound_s">Звуки</string>
+    <string name="music_s">Музыка</string>
+    <string name="turn_t">Ход   </string>
+    <string name="draw_b">Сдаться</string>
+    <string name="ttt_set">Настройки Крестики-Нолики</string>
+
+
+    <string name="title_activity_menu">Меню</string>
+    <string name="title_activity_tic_tac_toe_game">Крестики-Нолики</string>
+    <string name="num_players">Тип игры</string>
+    <string name="num_squares">Размер поля</string>
+    <string name="difficulty">Уровень сложности</string>
+    <string name="programmer">Программист: Андрей Варёнов</string>
+    <string name="design_auth">Дизайн: Екатерина Варенова</string>
+    <string name="version">Версия: 1.0</string>
+    <string name="difficultiesHARD">МАКСИМАЛЬНАЯ МОЩЬ</string>
+    <string name="difficultiesLow">Слабый бот</string>
+    <string name="difficultiesMedium">Средний бот</string>
+    <string name="rb_multi">Мультиплеер</string>
+    <string name="room_name_enter">Введите название комнаты:</string>
+    <string name="roomName_field">Название комнаты</string>
+    <string name="title_activity_multiplayer">Мультиплеер</string>
+    <string name="enter_room_name_b">Создать</string>
+    <string name="waiting">Ожидание</string>
+    <string name="newRoom_b">Создать игру     >>></string>
+    <string name="message_first_part">Игрок</string>
+    <string name="message_second_part">покинул игру.</string>
+    <string name="disconnected">Отключено.</string>
+    <string name="playerN_f">Игрок</string>
+    <string name="sizeOfField_f">Размер поля</string>
+    <string name="numberOfWins_f">Побед</string>
+    <string name="nameEnter_f">Пожалуйста, введите свое имя:</string>
+    <string name="name_f">Ваше имя</string>
+    <string name="changeName_b">Сменить имя</string>
+    <string name="music_auth">Музыка: Pictures of the Floating World</string>
+</resources>
